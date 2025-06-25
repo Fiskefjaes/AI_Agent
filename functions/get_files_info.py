@@ -21,4 +21,3 @@ def get_files_info(working_directory, directory=None):
 
 
 
-# and str(parent) != str(child):
